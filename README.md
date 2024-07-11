@@ -41,6 +41,12 @@ Este foi um desafio proposto no programa Oracle Next Education. As tecnologias u
 http://localhost:8080/swagger-ui/index.html
 ```
 
+### Badge
+
+Este é um badge conquistado por ter desenvolvido este projeto com a Alura em parceria da Oracle para o programa **Oracle Next Education**
+
+[![Documentação](./src/assets/Badge-Spring.png)]()
+
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).

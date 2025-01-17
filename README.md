@@ -1,6 +1,6 @@
 # Forum Hub API
 
-<div align="center">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
 [![Java Version](https://img.shields.io/badge/Java-21%2B-blue)](https://www.java.com/)
@@ -19,7 +19,9 @@
 O Fórum Hub é uma API REST de um fórum fictício, um espaço onde podemos criar tópicos e trocar conhecimentos no intuito de solucionar problemas e sanar nossas dúvidas.
 Este foi um desafio proposto no programa Oracle Next Education. As tecnologias usadas abrangem conceitos como migrações de banco de dados, tratamento de exceções, autenticação usando JWT, filtros em requisições, validações personalizadas e documentação com Swagger.
 
-[![Documentação](./src/assets/swagger.png)]()
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./assets/images/swagger.png" alt="Swagger Documentation" />
+</div>
 
 ## Funcionalidades
 
@@ -45,11 +47,11 @@ http://localhost:8080/swagger-ui/index.html
 
 Este é um badge conquistado por ter desenvolvido este projeto com a Alura em parceria da Oracle para o programa **Oracle Next Education**
 
-<div align="center">
-
-[![Documentação](./src/assets/Badge-Spring.png)]()
-
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="./assets/images/badge.png" alt="Spring Framework Badge" />
 </div>
+
+
 
 ## Licença
 

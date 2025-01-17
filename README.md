@@ -47,7 +47,7 @@ http://localhost:8080/swagger-ui/index.html
 
 Este é um badge conquistado por ter desenvolvido este projeto com a Alura em parceria da Oracle para o programa **Oracle Next Education**
 
-<div style="display: flex; justify-content: center; align-items: center; text-align: center; width: 100%; height: 100vh">
+<div style="text-align: center;">
     <img src="./assets/images/badge.png" alt="Spring Framework Badge" />
 </div>
 
